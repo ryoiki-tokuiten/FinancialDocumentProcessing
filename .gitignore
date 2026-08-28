@@ -2,6 +2,8 @@ __pycache__
 venv
 frontend/node_modules
 uploads
+distillation/
+
 
 # Editor directories and files
 .env
