@@ -1,0 +1,15 @@
+{
+  "trace_id": "56816194-981d-43aa-ab05-8889ed40c6a4",
+  "weaviate_uuid": null,
+  "document_name": "Dmart_Receipt.jpg",
+  "document_path": "/home/roshan/Documents/Projects/Financial Document Processing/backend/uploads/Dmart_Receipt.jpg",
+  "document_url": "/uploads/Dmart_Receipt.jpg",
+  "status": "REJECTED",
+  "doc_type": "invoice",
+  "fraud_risk_score": null,
+  "extraction_verified": true,
+  "total_supervisor_steps": 8,
+  "total_extractor_steps": 12,
+  "total_sarvam_steps": 0,
+  "created_at": 1786903463152
+}

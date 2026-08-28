@@ -1,0 +1,15 @@
+{
+  "trace_id": "5c89dd26-6cc5-407a-a28d-6550002f9fc6",
+  "weaviate_uuid": "f0fe672e-e866-4a5c-8e40-a89cf3bd0186",
+  "document_name": "dmart_invoice.pdf",
+  "document_path": "/home/roshan/Documents/Projects/Financial Document Processing/backend/uploads/dmart_invoice.pdf",
+  "document_url": "/uploads/dmart_invoice.pdf",
+  "status": "COMPLETED",
+  "doc_type": "invoice",
+  "fraud_risk_score": null,
+  "extraction_verified": true,
+  "total_supervisor_steps": 8,
+  "total_extractor_steps": 2,
+  "total_sarvam_steps": 2,
+  "created_at": 1786904959676
+}

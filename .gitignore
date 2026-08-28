@@ -1,0 +1,23 @@
+__pycache__
+venv
+frontend/node_modules
+uploads
+
+# Editor directories and files
+.env
+backend/nebula-docker-compose/
+
+# Reorganized backend folders
+backend/uploads/
+backend/outputs/
+
+# Database files
+backend/db/
+*.db
+*.sqlite
+*.sqlite3
+weaviate_data/
+
+# Logs
+*.log
+backend/logs/
